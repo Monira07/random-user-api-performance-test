@@ -1,5 +1,30 @@
 # Project Title: Simple Petstore API Performance Testing by JMeter
 ## Project Name: JPetstore Octoperf
+
+## Prerequisites:
+
+- jdk (Latest LTS)
+- Set environment for java JAVA-HOME
+- Jmeter
+- Set environment for jmeter JMETER-HOME
+
+## How to run?
+
+### Execute following commands:
+
+- `git clone <repo_url>`
+- `./jmeter` (For Linux) or
+- `.jmeter` (For windows)
+  
+## How to generate the report
+  
+### For JMeter 5.1.1 version or higher:
+To generate the report in Non-GUI mode, execute the test using the below command:
+- For Windows: `jmeter -n -t <your-JMX-file-path> -l &lt;log-file-path&gt; -e -o &lt;Path-fo-output-folder&gt;`
+- For Linux: `./jmeter.sh -n -t “<your-JMX-file-path>” -l “<log-file-path>” -e -o “<Path-fo-output-folder>”`
+  
+The output folder contains the generated report in HTML format at the end of the test.
+
 ## Tests Conducted
 ### Load Test
 Load testing was conducted to determine how the API performs under expected user loads. The test aimed to identify response times, throughput, and potential bottlenecks.
