@@ -1,9 +1,6 @@
 # Project Title: Simple E-commerce API Performance Testing by JMeter
 ## Project Name: Envatomarket
 
-## Objective
-E-commerce Clothing Site allows testers to explore web UI interactions within an e-commerce context. Testers can ensure seamless user journeys from product browsing to cart management and checkout processes. 
-
 ## Prerequisites:
 
 - jdk (Latest LTS)
@@ -53,5 +50,3 @@ Capacity analysis was conducted to establish the maximum number of requests the 
 
 
 **Stress Test**
-
-![jmeter assignment 1 stress testing](https://github.com/Monira07/random-user-api-performance-test/assets/115618518/bc558c55-10a6-4671-8d94-e3a770190dd8)
