@@ -1,5 +1,8 @@
-# Project Title: Simple E-commerce API Performance Testing by JMeter
-## Project Name: Envatomarket
+# Project Title: Simple PetStore API Performance Testing by JMeter
+## Project Name: PetStore
+
+## Objective
+PetStore is a dedicated API testing demo that focuses on interactions related to pet data. Testers can scrutinise API endpoints, perform CRUD operations, and ensure data integrity and accuracy within the application. 
 
 ## Prerequisites:
 
