@@ -2,7 +2,7 @@
 ## Project Name: PetStore
 
 ## Objective
-PetStore is a dedicated API testing demo that focuses on interactions related to pet data. Testers can scrutinise API endpoints, perform CRUD operations, and ensure data integrity and accuracy within the application. 
+PetStore is a dedicated API testing demo that focuses on interactions related to pet data. Testers can scrutinise API endpoints, perform CRUD operations, and ensure data integrity and accuracy within the application. Performance testing was conducted to ensure the API can handle various levels of traffic and to identify its maximum capacity. Click [here](https://petstore.octoperf.com/actions/Catalog.action) to visit this site.
 
 ## Prerequisites:
 
