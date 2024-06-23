@@ -53,3 +53,10 @@ Capacity analysis was conducted to establish the maximum number of requests the 
 
 
 **Stress Test**
+
+![jmeter stress test assignment 1](https://github.com/Monira07/random-user-api-performance-test/assets/115618518/80157fa5-5961-4a6c-8c24-946e5c5456ff)
+
+**Report**
+![Petstore-octoperf-Api stress testing report SS](https://github.com/Monira07/random-user-api-performance-test/assets/115618518/8def46fa-ee4a-4089-afdd-11efb2f10a72)
+
+
